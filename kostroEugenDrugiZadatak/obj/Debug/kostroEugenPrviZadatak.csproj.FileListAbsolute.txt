@@ -1,0 +1,6 @@
+C:\Users\kostr\source\repos\kostroEugenPrviZadatak\kostroEugenPrviZadatak\bin\Debug\kostroEugenPrviZadatak.exe.config
+C:\Users\kostr\source\repos\kostroEugenPrviZadatak\kostroEugenPrviZadatak\bin\Debug\kostroEugenPrviZadatak.exe
+C:\Users\kostr\source\repos\kostroEugenPrviZadatak\kostroEugenPrviZadatak\bin\Debug\kostroEugenPrviZadatak.pdb
+C:\Users\kostr\source\repos\kostroEugenPrviZadatak\kostroEugenPrviZadatak\obj\Debug\kostroEugenPrviZadatak.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenPrviZadatak\kostroEugenPrviZadatak\obj\Debug\kostroEugenPrviZadatak.exe
+C:\Users\kostr\source\repos\kostroEugenPrviZadatak\kostroEugenPrviZadatak\obj\Debug\kostroEugenPrviZadatak.pdb
